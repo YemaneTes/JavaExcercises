@@ -1,3 +1,6 @@
+
+//7. Write a Java program to print the area and perimeter of a circle. Test Data:
+
 package excercise1;
 
 public class question7 {

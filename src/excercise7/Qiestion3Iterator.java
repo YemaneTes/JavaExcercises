@@ -1,3 +1,5 @@
+//b.Remove even elements using iterators.
+
 package excercise7;
 
 import java.util.ArrayList;

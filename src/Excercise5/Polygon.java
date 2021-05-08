@@ -1,3 +1,5 @@
+//Day 7 exercises
+
 package Excercise5;
 
 public class Polygon {

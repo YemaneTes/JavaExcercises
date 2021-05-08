@@ -1,3 +1,10 @@
+
+/*Write a program to print following (Use for loop)
+**********
+**********
+**********
+**********
+*/
 package Excercise3;
 
 public class Question2 {

@@ -1,6 +1,5 @@
 
-//A program to print 'Hello' on screen and then print my name on a separate line.
-
+//Write a Java program to print 'Hello' on screen and then print your name on a separate line.
 package excercise1;
 
 public class Question1 {

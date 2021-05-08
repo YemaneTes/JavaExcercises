@@ -1,3 +1,6 @@
+
+//Write a Java program to copy an array by iterating the array. Arr1 [3, 4,5,2] Arr2 [null, null, null, null]
+
 package Excercise4;
 
 import java.util.Arrays;

@@ -1,3 +1,6 @@
+
+//1.Given the list below, please find the sorted unique values, using the set interface(‘A’,’F’,’A’,’D’, ‘F’,’C’, ‘B’)
+
 package excercise7;
 
 import java.util.HashSet;

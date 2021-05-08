@@ -1,3 +1,5 @@
+//Write a Java program to calculate the average value of array integers
+
 package Excercise4;
 
 public class Question1 {
@@ -6,9 +8,9 @@ public class Question1 {
 	       int[] integers = new int[]{4, 6, 7, 9,};
 
 	       int sum = 0;
-	       for(int i=0; i < integers.length ; i++)
+	       for(int i=0; i < integers.length ; i++) {
 	        sum = sum + integers[i];
-
+	       }
 	       double avg = sum / integers.length;
 	        System.out.println("The average value of the array integers is : " + avg);
 

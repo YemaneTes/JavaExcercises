@@ -1,3 +1,5 @@
+//3. Given the list below a.Try to remove the even elements using normal for loop
+
 package excercise7;
 
 import java.util.ArrayList;
