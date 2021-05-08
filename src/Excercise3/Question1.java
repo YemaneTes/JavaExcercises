@@ -1,3 +1,5 @@
+//Write a java program to calculate the sum of first 10 integers. The program should calculate the sum using for loop
+
 package Excercise3;
 
 public class Question1 {
@@ -10,7 +12,7 @@ public class Question1 {
 		{  
 		sum = sum + i;  
 		}  
-		System.out.println( + sum); 
+		System.out.println(sum); 
 
 	}
 

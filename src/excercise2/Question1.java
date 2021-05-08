@@ -1,3 +1,6 @@
+
+//1.Write a Java program to concatenate a given string to the end of another string.
+
 package excercise2;
 
 public class Question1 {
@@ -9,6 +12,7 @@ public class Question1 {
         System.out.println("first String: " + myString1);
         System.out.println("Socond String: " + mystring2); 
        
+        //============check
 
         String MyString3 = myString1.concat(mystring2);
 

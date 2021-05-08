@@ -1,4 +1,4 @@
-//A program to print the sum of two numbers
+//Write a Java program to print the sum of two numbers.
 
 package excercise1;
 

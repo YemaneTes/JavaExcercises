@@ -1,3 +1,5 @@
+
+//6. Write a Java program to compute the specified expressions and print the output. 
 package excercise1;
 
 public class Question6 {

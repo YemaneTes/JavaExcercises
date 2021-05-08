@@ -1,3 +1,6 @@
+
+//Write a Java program to find the index of an array element. [4, 6, 7, 9] x=7
+
 package Excercise4;
 
 public class Question3 {

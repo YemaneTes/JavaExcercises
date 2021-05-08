@@ -1,3 +1,6 @@
+/*2.Given Two sets below two setsSet1: [3,4,5,7,8,9]Set2 [5,2,4,6,7,11]a.
+Find the intersection in those setsb.Find the union in those sets c.Find the only unique elements in set2*/
+
 package excercise7;
 
 import java.util.HashSet;

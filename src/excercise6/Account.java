@@ -1,3 +1,27 @@
+//OOP part 2 Exercises
+
+/*Create a class called Account  that includes four pieces of information as instance variables
+First Name (String)
+Last Name (String)
+Account Number (long) 
+Balance  (double)
+
+
+Your class should have a constructor that initializes the four instance variables. 
+Provide a set and a get method for each instance variable.
+
+add methods called debit and credit
+debit withdraws money from the Account. Ensure that the debit amount does not exceed the Account’s balance. If it does, the balance should be left unchanged and the method should print a message “Insufficient Balance”
+Credit: that adds money to the balance and prints the final balance.
+Create an account for “Hagos Gebru” Account number 10001 with an initial balance of $5000. Withdraw $3000 and deposit $1000.
+Create an account for “James Bond” Account number 10002 with initial balance $3000 and withdraw $4000. 
+
+Modify the Account class so that the account number auto increments every time a new account is created.
+Hint: create static variable initialize to 10001 and increment it in the constructor.*/
+
+
+
+
 package excercise6;
 
 public class Account {
