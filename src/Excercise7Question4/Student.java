@@ -3,10 +3,7 @@
 package Excercise7Question4;
 
 
-public class Student {
-	
-		
-
+public class Student implements Comparable<Student>{
 	
 	private String firstName;
 	private int age;
@@ -44,9 +41,19 @@ public class Student {
 
 	@Override
 	public String toString() {
-		return "Student [firstName=" + firstName + ", age=" + age + "]";
+		return firstName +":" + age;
 	}
-	
+
+
+
+
+	@Override
+	public int compareTo(Student o) {
+		
+		return this.getFirstName().compareTo(o.getFirstName());
+
+		
+	}
 	/*
 	 * public class Student implements Comparable< Student >{
 	 * 
