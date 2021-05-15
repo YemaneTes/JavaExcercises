@@ -17,6 +17,8 @@ public class HasMap {
 		for (Map.Entry person : gender.entrySet()) {
 		System.out.println(person.getKey() + ":" +" " + person.getValue());
 
+	//	System.out.println(gender);
+
 		
 
 	}

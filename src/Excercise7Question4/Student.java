@@ -41,7 +41,7 @@ public class Student implements Comparable<Student>{
 
 	@Override
 	public String toString() {
-		return "Student [firstName: " + firstName +"," + " age: " + age  + "]" + "\n";
+		return firstName +":" + age;
 	}
 
 
@@ -51,9 +51,9 @@ public class Student implements Comparable<Student>{
 	public int compareTo(Student o) {
 		
 		return this.getFirstName().compareTo(o.getFirstName());
+
+		
 	}
-	
-	
 	/*
 	 * public class Student implements Comparable< Student >{
 	 * 

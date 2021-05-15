@@ -1,4 +1,4 @@
-//Write a Java program to test if an array contains aspecificvalue. [4, 6, 7, 9] x=5
+//Write a Java program to test if an array contains a specific value. [4, 6, 7, 9] x=5
 
 package Excercise4;
 
