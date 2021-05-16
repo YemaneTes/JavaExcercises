@@ -6,7 +6,7 @@ package excercise1;
 public class question7 {
 
 		   
-		private static final double radius = 7.5;
+		private static double radius = 7.5;
 
 		    public static void main(String[] args) {
 

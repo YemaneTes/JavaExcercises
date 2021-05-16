@@ -13,14 +13,14 @@ public class Question5 {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter two numbers and enter -1 to find average :");
 
-        double inpit = 0;
+        double input = 0;
         double num = 0;
         double sum = 0;
         double avg = 0;
-    while (inpit != -1)
+    while (input != -1)
     {
-    	inpit = scan.nextDouble();
-        sum += inpit;
+    	input = scan.nextDouble();
+        sum += input;
         num++;
     }
     System.out.println("The average is:" + (sum/num));
