@@ -7,7 +7,6 @@ public class MagicArray {
 
 		 ArrayList<Integer> divisionBy3 = new ArrayList<Integer>();
 
-		    //Add a set of numbers.
 		 divisionBy3.add(4);
 		 divisionBy3.add(6);
 		 divisionBy3.add(5);
@@ -30,4 +29,6 @@ public class MagicArray {
 		}
 			
 		}}}
+
+
 	 
