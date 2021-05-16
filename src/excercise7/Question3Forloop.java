@@ -3,11 +3,17 @@
 package excercise7;
 
 import java.util.ArrayList;
+import java.util.Iterator;
+
+//import java.util.Collections;
+//import java.util.Iterator;
+
 import java.util.List;
+
 
 public class Question3Forloop {
 
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		List<Integer> myList = new ArrayList<>();
 		
 		myList.add(1);
@@ -16,11 +22,18 @@ public class Question3Forloop {
 		myList.add(4);
 		myList.add(5);
 		myList.add(5);
+	}
 		
-		for (Integer i : myList) {
+		public void removeEvenIndex(ArrayList<Integer> myList) {
+		      for (int i = 0; i < myList.size() ; i++) {
+		          if (i % 2 == 0) {
+		        	  myList.remove(i);
+		          }
+		      }
+		      removeEvenIndex(myList);
+		      
+		      System.out.println(myList);
 
-			System.out.println(i);
-	}
+		  }}
 
-}
-	}
+
