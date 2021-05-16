@@ -1,4 +1,4 @@
-package classExcercises;
+package ExamQuestion1To6;
 
 import java.util.ArrayList;
 
