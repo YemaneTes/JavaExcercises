@@ -1,5 +1,5 @@
 
-// question 6
+
 
 package ExamQuestion1To6;
 
