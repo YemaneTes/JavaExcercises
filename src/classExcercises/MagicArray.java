@@ -5,18 +5,17 @@ import java.util.ArrayList;
 public class MagicArray {
 	 public static void main(String[] args) {
 
-		 ArrayList<Integer> division = new ArrayList<Integer>();
+		 ArrayList<Integer> divisionBy3 = new ArrayList<Integer>();
 
-		    //Add a set of numbers.
-		 division.add(4);
-		 division.add(6);
-		 division.add(5);
-		 division.add(12);
+		 divisionBy3.add(4);
+		 divisionBy3.add(6);
+		 divisionBy3.add(5);
+		 divisionBy3.add(12);
 		
 
 		   
 
-		 for (int i : division) {
+		 for (int i : divisionBy3) {
 		 
 		        if (i % 3 == 0) {
 		        	
@@ -30,4 +29,6 @@ public class MagicArray {
 		}
 			
 		}}}
+
+
 	 
