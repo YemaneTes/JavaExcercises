@@ -1,5 +1,7 @@
 package ExamQuestion1To6;
 
+import java.util.Scanner;
+
 public class Drawpaterns {
 
 	
@@ -7,7 +9,8 @@ public class Drawpaterns {
 	    {
 	        int a, b;
 	 
-	       
+	        Scanner scanner = new Scanner(System.in);
+
 	        for(a=0; a<n; a++)
 	        {
 	 
